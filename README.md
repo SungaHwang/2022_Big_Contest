@@ -11,6 +11,3 @@
 
 ## 평가 방법
 - 고객 당 대출신청 Y/N 결과, 모델해석 기반 분석 수준 등
-
-## 데이터 정의서
-- <img width="535" alt="스크린샷 2022-09-07 오후 4 20 34" src="https://user-images.githubusercontent.com/74399508/188815619-6cecbc9c-ac7f-4eee-bb29-931b841e4151.png">
